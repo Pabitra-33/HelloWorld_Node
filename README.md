@@ -26,9 +26,9 @@ Save the server.js file, then run the following command in your terminal or comm
 node server.js
 
 . Access your server:
-Open a web browser and navigate to http://localhost:3000. You should see "Hello, world!" displayed in the browser window.
+Open a web browser and navigate to http://localhost:8000. You should see "Hello, world!" displayed in the browser window.
 
-That's it! You've created a simple Node.js server that listens on port 3000 and responds with "Hello, world!" when accessed.
+That's it! We've created a simple Node.js server that listens on port 8000 and responds with "Hello, world!" when accessed.
 
 
 
