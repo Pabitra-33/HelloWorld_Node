@@ -1,6 +1,6 @@
 #  HelloWorld_Node
 Developed one server in Node.js that listens on a specific port and responds with "Hello, world!".
-you can follow these steps:
+You can follow these steps to create one server in nodejs:
 
 . Install Node.js:
 If you haven't already, download and install Node.js from the official website: Node.js.
