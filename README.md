@@ -10,7 +10,7 @@ Open your terminal or command prompt and create a new directory where you want t
 mkdir my-server
 cd my-server
 
-. Initialize a new Node.js project:
+. Initialize a new Node.js project: 
 Run the following command to create a package.json file, which will hold information about your project and its dependencies.<br>
 npm init -y
 
